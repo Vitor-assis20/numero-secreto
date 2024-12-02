@@ -1,1 +1,1 @@
-  teste
+Projeto teste para desenvolver e estudar conceitos de git/github abordando diversas funcionalidades da plataforma. 
